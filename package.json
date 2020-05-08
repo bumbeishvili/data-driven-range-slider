@@ -1,0 +1,31 @@
+{
+  "name": "data-driven-range-slider",
+  "version": "1.0.0",
+  "description": "d3.js based data driven range slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bumbeishvili/data-driven-range-slider.git"
+  },
+  "keywords": [
+    "d3",
+    "range-slider",
+    "time-range-slider",
+    "data-driven-slider",
+    "react-range-slider"
+    "angular-range-slider"
+    "vue-range-slider"
+  ],
+  "dependencies": {
+    "d3": "*"
+  },
+  "author": "David B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bumbeishvili/data-driven-range-slider/issues"
+  },
+  "homepage": "https://github.com/bumbeishvili/data-driven-range-slider#readme"
+}
