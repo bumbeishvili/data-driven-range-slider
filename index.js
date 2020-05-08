@@ -1,4 +1,4 @@
-d3 = require('d3');
+d3 = window.d3||require('d3');
 
 class RangeSlider {
   constructor() {
@@ -297,7 +297,7 @@ class RangeSlider {
       scaleTime;
     if (isDate) {
       dateExtent = d3.extent(dataFinal.map(accessorFunc));
-      dateRangesCount = Math.round(width / 5);
+      dateRangesCount = Math.round(calc.chartWidth / 5);
       dateScale = d3.scaleTime().domain(dateExtent).range([0, dateRangesCount]);
       scaleTime = d3.scaleTime().domain(dateExtent).range([0, calc.chartWidth]);
       dateRanges = d3
@@ -384,7 +384,6 @@ class RangeSlider {
 
     function brushEnded() {
       const attrs = that.getChartState();
-      debugger
       var minX = attrs.minX;
       var maxX = attrs.maxX;
 
@@ -572,4 +571,5 @@ class RangeSlider {
 }
 
  
-module.exports = TreeChart;
+typeof module!='undefined' && (module.exports = RangeSlider);
+
