@@ -13,7 +13,8 @@ D3 and svg based data driven range slider, with good performance
 
 
 Check out examples
-* [Observable example](https://observablehq.com/@bumbeishvili/data-driven-range-slider)  (Most Updated)   
+* [Observable example](https://observablehq.com/@bumbeishvili/data-driven-range-slider)  (Most Updated)  
+* [JSFiddle example](https://jsfiddle.net/079nk83L/2/)
 
 Check out several libraries and frameworks integrations
 
