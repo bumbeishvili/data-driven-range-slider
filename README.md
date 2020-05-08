@@ -1,5 +1,3 @@
-# data-driven-range-slider
-D3.js based data-driven range slider, with time support
 # Data driven range slider
 [![NPM Version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&type=6&v=1.0.0&x2=0)](https://npmjs.org/package/data-driven-range-slider) 
 
