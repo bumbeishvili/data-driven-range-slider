@@ -15,8 +15,8 @@
     "range-slider",
     "time-range-slider",
     "data-driven-slider",
-    "react-range-slider"
-    "angular-range-slider"
+    "react-range-slider",
+    "angular-range-slider",
     "vue-range-slider"
   ],
   "dependencies": {
