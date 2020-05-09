@@ -17,7 +17,7 @@ Check out examples
 * [JSFiddle example](https://jsfiddle.net/079nk83L/2/)
 
 Check out several libraries and frameworks integrations
-
+### Integrations
 * [Vue.js Integration](https://stackblitz.com/edit/data-driven-range-slider-vue-integration)  
 * [React integration](https://stackblitz.com/edit/data-driven-range-slider-react-integration)  
 * [Angular integration](https://stackblitz.com/edit/data-driven-range-slider-angular-integration)  
