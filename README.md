@@ -11,6 +11,7 @@ Add interactivity to your web apps
 
 D3 and svg based data driven range slider, with good performance
 
+Check out [Introduction](https://dev.to/dbumbeishvili/data-driven-range-slider-introduction-4mj)
 
 Check out examples
 * [Observable example](https://observablehq.com/@bumbeishvili/data-driven-range-slider)  (Most Updated)  
